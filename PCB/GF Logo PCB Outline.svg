@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="2.2949in" height="2.7706in" viewBox="0 0 165.2301 199.483">
+  <title>GF Logo PCB Outline</title>
+  <path id="GF_PCB_outline" data-name="GF PCB outline" d="M667.5562,520.0283a82.1451,82.1451,0,1,1,129.226-17.0078l-.126.2188-13.8017,17.6416-.2217.24-56.9922,56.9912Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#f0f" stroke-miterlimit="10"/>
+  <g id="LED_placements" data-name="LED placements">
+    <path d="M728.1122,385.5931a4.3918,4.3918,0,1,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M728.1122,418.4073a4.3917,4.3917,0,1,0-4.8891,7.297l.0029.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M722.4431,462.4142a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M670.9978,412.8486a4.3918,4.3918,0,1,0-4.8892,7.297l.0029.002a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M688.2836,462.4142a4.3918,4.3918,0,0,0-4.8892,7.2971l.003.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M768.2073,462.2814a4.3918,4.3918,0,0,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,0,0,4.8892-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M795.3063,487.1164a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M788.3012,417.2418a4.3918,4.3918,0,1,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M728.1122,559.1538a4.3917,4.3917,0,1,0-4.8891,7.297l.0029.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M657.0548,475.5792a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M718.0494,504.7905a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M745.9021,486.2443a4.3918,4.3918,0,1,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M689.78,523.26a4.3918,4.3918,0,1,0-4.8892,7.297l.0029.002a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    <path d="M772.8716,514.4735a4.3918,4.3918,0,0,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,1,0,4.8892-7.297Z" transform="translate(-643.0342 -379.3364)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+  </g>
+</svg>

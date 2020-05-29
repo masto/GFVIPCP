@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2.1954in" height="3.4344in" viewBox="0 0 158.07 247.2775">
+  <title>F360 PCB Outline</title>
+  <g id="Dimension">
+    <polygon points="157.57 155.8 157.57 201.39 81.94 245.05 79.08 246.7 75.87 244.84 0.5 201.33 0.5 156.01 0.5 107.61 0.5 67.51 45.36 0.5 113.03 0.5 157.57 67.31 157.57 107.91 157.57 155.8" fill="none" stroke="#f0f" stroke-miterlimit="10"/>
+  </g>
+  <g id="Holes">
+    <g id="PCB_Mounting_Holes" data-name="PCB Mounting Holes">
+      <g id="PCB_Mounting_Holes-2" data-name="PCB Mounting Holes">
+        <circle cx="146.2332" cy="190.967" r="3.2598" fill="none" stroke="#2b318b" stroke-miterlimit="113.3858"/>
+      </g>
+      <g id="PCB_Mounting_Holes-3" data-name="PCB Mounting Holes">
+        <circle cx="136.0566" cy="59.1126" r="3.2598" fill="none" stroke="#2b318b" stroke-miterlimit="113.3858"/>
+      </g>
+      <g id="PCB_Mounting_Holes-4" data-name="PCB Mounting Holes">
+        <circle cx="20.9718" cy="55.8528" r="3.2598" fill="none" stroke="#2b318b" stroke-miterlimit="113.3858"/>
+      </g>
+      <g id="PCB_Mounting_Holes-5" data-name="PCB Mounting Holes">
+        <circle cx="15.0683" cy="194.2269" r="3.2598" fill="none" stroke="#2b318b" stroke-miterlimit="113.3858"/>
+      </g>
+    </g>
+  </g>
+  <g id="LEDs">
+    <g id="LED_placements" data-name="LED placements">
+      <path d="M80.9822,54.9631A4.3918,4.3918,0,0,0,76.093,62.26l.003.0019a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M80.9822,87.7773a4.3918,4.3918,0,1,0-4.8892,7.297l.003.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M75.3131,131.7842a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M23.8677,82.2186a4.3917,4.3917,0,1,0-4.8891,7.297l.0029.002a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M41.1536,131.7842a4.3918,4.3918,0,0,0-4.8892,7.2971l.003.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M121.0773,131.6514a4.3918,4.3918,0,1,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,1,0,4.8892-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M148.1763,156.4864a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M141.1711,86.6118a4.3917,4.3917,0,1,0-4.8891,7.297l.0029.002a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M80.9822,228.5238a4.3918,4.3918,0,0,0-4.8892,7.297l.003.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M9.9248,144.9492a4.3918,4.3918,0,0,0-4.8892,7.2971l.003.0019a4.3917,4.3917,0,1,0,4.8891-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M70.9194,174.1605a4.3918,4.3918,0,0,0-4.8891,7.2971l.0029.002a4.3918,4.3918,0,1,0,4.8891-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M98.7721,155.6143a4.3918,4.3918,0,1,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M42.65,192.63a4.3918,4.3918,0,0,0-4.8892,7.2971l.0029.002a4.3918,4.3918,0,0,0,4.8892-7.2971Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+      <path d="M125.7416,183.8435a4.3918,4.3918,0,0,0-4.8892,7.2971l.0029.0019a4.3918,4.3918,0,1,0,4.8892-7.297Z" transform="translate(0.5 0.5)" fill="none" stroke="#006400" stroke-miterlimit="113.3858"/>
+    </g>
+  </g>
+</svg>
